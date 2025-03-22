@@ -43,7 +43,7 @@ Toute modification future de cette politique de confidentialité sera publiée s
 
 Pour toute question concernant cette politique de confidentialité ou nos pratiques de confidentialité, veuillez contacter:
 
-Email: [ton-email@exemple.com]
+Email: [locatyc@gmail.com]
 
 ## Consentement
 
