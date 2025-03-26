@@ -1,10 +1,10 @@
-# Politique de Confidentialité - AVP (Application de Visualisation de Photos)
+# Politique de Confidentialité - FPR (Fast Photo Renamer)
 
 **Date d'effet:** 22 mars 2025
 
 ## Introduction
 
-Cette politique de confidentialité décrit comment l'application AVP ("l'Application") gère les données des utilisateurs. Notre application est conçue pour prendre et visualiser des photos sans collecter de données personnelles.
+Cette politique de confidentialité décrit comment l'application FPR ("l'Application") gère les données des utilisateurs. Notre application est conçue pour prendre et visualiser des photos sans collecter de données personnelles.
 
 ## Collecte de données
 
